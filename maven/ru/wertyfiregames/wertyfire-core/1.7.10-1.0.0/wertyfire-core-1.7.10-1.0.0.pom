@@ -33,7 +33,7 @@
                             <goal>jar</goal>
                         </goals>
                         <configuration>
-                            <classifier>source</classifier>
+                            <classifier>sources</classifier>
                         </configuration>
                     </execution>
                 </executions>
