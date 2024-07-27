@@ -9,7 +9,7 @@
     <packaging>jar</packaging>
 
     <name>Wertyfire Core</name>
-    <description>Core mod-library for Wertyfire mods</description>
+    <description>Core mod-library for Wertyfire's mods</description>
 
     <properties>
         <java.version>1.8</java.version>
