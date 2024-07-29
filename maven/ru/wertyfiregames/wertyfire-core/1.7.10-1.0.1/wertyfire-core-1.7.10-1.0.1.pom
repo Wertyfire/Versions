@@ -4,7 +4,6 @@
   <groupId>ru.wertyfiregames</groupId>
   <artifactId>wertyfire-core</artifactId>
   <version>1.7.10-1.0.1</version>
-  <dependencies/>
   <name>WertyfireCore</name>
   <description>Core mod-library for mods by Wertyfire</description>
   <url>https://github.com/Wertyfire/WertyfireCore/tree/1.7.10</url>
