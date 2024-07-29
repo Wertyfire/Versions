@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>ru.wertyfiregames</groupId>
+  <artifactId>wertyfire-core</artifactId>
+  <version>1.7.10-1.0.1</version>
+  <dependencies/>
+  <name>WertyfireCore</name>
+  <description>Core mod-library for mods by Wertyfire</description>
+  <url>https://github.com/Wertyfire/WertyfireCore/tree/1.7.10</url>
+  <licenses>
+    <license>
+      <name>MIT License</name>
+      <url>https://raw.githubusercontent.com/Wertyfire/WertyfireCore/1.7.10/LICENSE</url>
+    </license>
+  </licenses>
+  <developers>
+    <developer>
+      <id>Wertyfire</id>
+    </developer>
+  </developers>
+</project>
