@@ -5,7 +5,6 @@
   <artifactId>wertyfire-core</artifactId>
   <version>1.7.10-1.0.0</version>
   <packaging>pom</packaging>
-  <dependencies/>
   <name>WertyfireCore</name>
   <description>Core mod-library for mods by Wertyfire</description>
   <url>https://github.com/Wertyfire/WertyfireCore/tree/1.7.10</url>
