@@ -1,0 +1,100 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "ru.wertyfiregames",
+    "module": "eazylxp",
+    "version": "1.3",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "9.7.1"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 25,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "eazylxp-1.3.jar",
+          "url": "eazylxp-1.3.jar",
+          "size": 12775,
+          "sha512": "0011e2bde81bc57ea59254136b1c76ff25f6df8df7ddc071e9b8ae69b5dcc106c73e7ce689efc787accb83fbef00d05b844eb04d6ab954c558bdb7d2f0c70923",
+          "sha256": "16c1ed2590625695afcfa4fa958e50da83088214b60bf24f223a9cb1ef8015fc",
+          "sha1": "c0229e05a6762437886fbce99025f6965bdbea81",
+          "md5": "a75a66024fe516bc91aa9d9602b24e95"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 25,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "eazylxp-1.3.jar",
+          "url": "eazylxp-1.3.jar",
+          "size": 12775,
+          "sha512": "0011e2bde81bc57ea59254136b1c76ff25f6df8df7ddc071e9b8ae69b5dcc106c73e7ce689efc787accb83fbef00d05b844eb04d6ab954c558bdb7d2f0c70923",
+          "sha256": "16c1ed2590625695afcfa4fa958e50da83088214b60bf24f223a9cb1ef8015fc",
+          "sha1": "c0229e05a6762437886fbce99025f6965bdbea81",
+          "md5": "a75a66024fe516bc91aa9d9602b24e95"
+        }
+      ]
+    },
+    {
+      "name": "javadocElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "eazylxp-1.3-javadoc.jar",
+          "url": "eazylxp-1.3-javadoc.jar",
+          "size": 4182147,
+          "sha512": "7e41c0e2210a017c8f07eee1b11c42e28df4ca5f491a5a26abe9c9931388457b1ebe4a4d3cb2e2f6972c6ecfe7c88ce97e134565364635b94aea0b02759e5d61",
+          "sha256": "ee9f8f73159a59f2cbb4b197c73c674e665dafae8156bd01367b13647d95fd28",
+          "sha1": "68fc880b1503d7d551fe75a40b1983ecb582bb68",
+          "md5": "e1933be5c7bbf2f7cee18ed1cd5aaa4d"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "eazylxp-1.3-sources.jar",
+          "url": "eazylxp-1.3-sources.jar",
+          "size": 13729,
+          "sha512": "d2aa1478f1b4d2c2bae8f3ee6a5ba66c552e8d0c47ec6b1ceeb56bf0d6c0d9e3a62ba20054ac3dae09edd33fe58a7e9c8a64151fb7bffeb52526cbe1f8bb57b3",
+          "sha256": "eb0b3d74dac2a31b10dfb2a67b4f09872d5b9e8a179877fb07ee073e78f81bed",
+          "sha1": "13b98fa670838c5a5f8556a336a0fad4f7fb98af",
+          "md5": "5392d1bd69a8231077b1b4e8afca4be0"
+        }
+      ]
+    }
+  ]
+}
